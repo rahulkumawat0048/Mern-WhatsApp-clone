@@ -55,6 +55,7 @@ npm run dev
 
 ### Frontend
 cd frontend  
+
 npm install  
 npm run dev
 
@@ -63,3 +64,16 @@ npm run dev
 
 Rahul Kumawat  
 MERN Stack Developer
+
+
+<img width="1920" height="1008" alt="home page" src="https://github.com/user-attachments/assets/00efe722-ef80-4161-b4d8-eb8980073485" />
+<img width="1920" height="1008" alt="home page with chats" src="https://github.com/user-attachments/assets/da996350-a3f1-4463-9c72-6edd8fb568e3" />
+
+<img width="1920" height="1008" alt="proile" src="https://github.com/user-attachments/assets/9a874312-cc49-43c7-8d5e-6354ddfbee6f" />
+<img width="1920" height="1008" alt="account section" src="https://github.com/user-attachments/assets/02e5df76-b55d-4cc7-9744-ab3cad89356e" />
+<img width="1920" height="1008" alt="dark mode" src="https://github.com/user-attachments/assets/6b32ea76-a4fa-43ed-b4c4-0b72cffc78ca" />
+
+
+
+
+
